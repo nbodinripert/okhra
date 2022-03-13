@@ -1,0 +1,110 @@
+.bar-house-info-id {
+  display: inline;
+  color: #aa6b4f;
+}
+
+#bar {
+  height: 4rem;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+#okhraTitleContainer {
+  height: 100%;
+  font-size: 2.5rem;
+  display: flex;
+  align-items: flex-end;
+  padding-left: var(--bodyPadding);
+  text-decoration: none;
+  color: black;
+}
+
+#linksContainer {
+  padding: 0 var(--bodyPadding) 0.2rem 0;
+  display: flex;
+  align-items: flex-end;
+}
+
+.transparent-button {
+  outline: none;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.transparent-button:focus {
+  box-shadow: none;
+}
+
+.gray {
+  background-color: #d8d8d8;
+}
+
+.cross-container {
+  padding: 1rem var(--bodyPadding) 0 0;
+}
+
+.cross {
+  width: 20px;
+  cursor: pointer;
+}
+
+.arrows-container {
+  padding: 0.8rem var(--bodyPadding) 0 var(--bodyPadding);
+}
+
+.arrow {
+  height: 28px;
+  width: 32px;
+  cursor: pointer;
+}
+
+#leftArrow {
+  justify-self: right;
+}
+
+.workshop-address-container {
+  height: 35px;
+  background-color: #c49c88;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 0 var(--bodyPadding);
+  line-height: 35px;
+  margin-top: 5px;
+}
+
+.workshop-date-container {
+  height: 35px;
+  border-bottom: 1px solid black;
+  padding: 0 var(--bodyPadding);
+  line-height: 35px;
+}
+
+.workshop-pigment-container {
+  width: 180px;
+  padding-left: var(--bodyPadding);
+  border-bottom: 1px solid black;
+}
+
+.workshop-duration-container {
+  width: 180px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.duration-span {
+  border-bottom: 1px solid black;
+  padding-left: var(--bodyPadding);
+  height: 35px;
+  line-height: 35px;
+}
+
+.workshop-colors-container {
+  width: calc(100% - 360px);
+}
+
+.color-container {
+  border-bottom: 1px solid black;
+  height: 35px;
+}

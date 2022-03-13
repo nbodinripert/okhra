@@ -1,0 +1,5 @@
+html,
+body {
+  --animationLength: 25s;
+  --bodyPadding: 1.5rem;
+}
