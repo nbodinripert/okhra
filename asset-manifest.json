@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/okhra/static/css/main.5babfbc4.css",
+    "main.js": "/okhra/static/js/main.16f24ff8.js",
+    "static/js/787.915f9f51.chunk.js": "/okhra/static/js/787.915f9f51.chunk.js",
+    "static/media/house_4_06_08_22.png": "/okhra/static/media/house_4_06_08_22.11fb703738ce423a719b.png",
+    "static/media/house_4_13_08_22.png": "/okhra/static/media/house_4_13_08_22.a0429063d6c5b815adc4.png",
+    "static/media/about.png": "/okhra/static/media/about.f89f4c4778b5241cc4e6.png",
+    "static/media/house_2_26_07_22.png": "/okhra/static/media/house_2_26_07_22.09b36e82ffb058b79f10.png",
+    "static/media/house_2_23_07_22.png": "/okhra/static/media/house_2_23_07_22.24f5b10d5f0c377d156e.png",
+    "static/media/house_2_09_07_22.png": "/okhra/static/media/house_2_09_07_22.f7058764783c2b7f8147.png",
+    "static/media/house_2_30_07_22.png": "/okhra/static/media/house_2_30_07_22.07e202ca47f3d774dee4.png",
+    "static/media/house_5_02_07_22.png": "/okhra/static/media/house_5_02_07_22.14b515eb49913582b760.png",
+    "static/media/house_1_25_06_22.png": "/okhra/static/media/house_1_25_06_22.6a6af92c9682d7dbb168.png",
+    "static/media/house_3_11_06_22.png": "/okhra/static/media/house_3_11_06_22.fd441ae37c5a473b16dd.png",
+    "static/media/house_3_04_06_22.png": "/okhra/static/media/house_3_04_06_22.35b94ed0f271d4046e0e.png",
+    "static/media/house_1_18_06_22.png": "/okhra/static/media/house_1_18_06_22.ebbbce5ca57d7496c22c.png",
+    "static/media/map.jpg": "/okhra/static/media/map.5b1da97a97214b31b675.jpg",
+    "static/media/map_hover_house_3.jpg": "/okhra/static/media/map_hover_house_3.1813cba876422fb64d61.jpg",
+    "static/media/map_hover_house_2.jpg": "/okhra/static/media/map_hover_house_2.9001fa9be912fcb16f8f.jpg",
+    "static/media/map_hover_house_4.jpg": "/okhra/static/media/map_hover_house_4.60e38acf3db8950bb35e.jpg",
+    "static/media/map_hover_house_5.jpg": "/okhra/static/media/map_hover_house_5.04195831ac873de4a15e.jpg",
+    "static/media/map_hover_house_1.jpg": "/okhra/static/media/map_hover_house_1.fb38838319f77cf64b50.jpg",
+    "static/media/IowanOldStyle.ttf": "/okhra/static/media/IowanOldStyle.3a1908e61b9ff7f427aa.ttf",
+    "static/media/ApercuRegular.ttf": "/okhra/static/media/ApercuRegular.446b3316b211cb27f629.ttf",
+    "index.html": "/okhra/index.html",
+    "main.5babfbc4.css.map": "/okhra/static/css/main.5babfbc4.css.map",
+    "main.16f24ff8.js.map": "/okhra/static/js/main.16f24ff8.js.map",
+    "787.915f9f51.chunk.js.map": "/okhra/static/js/787.915f9f51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5babfbc4.css",
+    "static/js/main.16f24ff8.js"
+  ]
+}
