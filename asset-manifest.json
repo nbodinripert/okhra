@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/okhra/static/css/main.5babfbc4.css",
-    "main.js": "/okhra/static/js/main.16f24ff8.js",
+    "main.js": "/okhra/static/js/main.d75d4eaf.js",
     "static/js/787.915f9f51.chunk.js": "/okhra/static/js/787.915f9f51.chunk.js",
     "static/media/house_4_06_08_22.png": "/okhra/static/media/house_4_06_08_22.11fb703738ce423a719b.png",
     "static/media/house_4_13_08_22.png": "/okhra/static/media/house_4_13_08_22.a0429063d6c5b815adc4.png",
@@ -25,11 +25,11 @@
     "static/media/ApercuRegular.ttf": "/okhra/static/media/ApercuRegular.446b3316b211cb27f629.ttf",
     "index.html": "/okhra/index.html",
     "main.5babfbc4.css.map": "/okhra/static/css/main.5babfbc4.css.map",
-    "main.16f24ff8.js.map": "/okhra/static/js/main.16f24ff8.js.map",
+    "main.d75d4eaf.js.map": "/okhra/static/js/main.d75d4eaf.js.map",
     "787.915f9f51.chunk.js.map": "/okhra/static/js/787.915f9f51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5babfbc4.css",
-    "static/js/main.16f24ff8.js"
+    "static/js/main.d75d4eaf.js"
   ]
 }
